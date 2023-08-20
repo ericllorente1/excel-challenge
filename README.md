@@ -11,3 +11,4 @@ How to use =COUNTIFS() function: https://www.youtube.com/watch?v=Ihkgs7T3Do0&ab_
 How to fix range in excel formula to copy and paste into different cell: https://www.ablebits.com/office-addins-blog/copy-formula-excel/#:~:text=Select%20the%20formula%20in%20the%20cell%20using%20the%20mouse%2C%20and,formula%20was%20copied%20as%20text.
 Find and REPLACE ALL to change criteria without editing each cell individually. 
 How to filter Data in a column: https://www.ablebits.com/office-addins-blog/excel-filter-add-use-remove/
+Calculating Standard deviation manually: https://www.youtube.com/watch?v=y_wdorJ7cXE&ab_channel=DanielStorage
